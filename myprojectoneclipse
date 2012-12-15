@@ -1,0 +1,11 @@
+class Myprojectoneclipse{
+      funA(){
+           system.out.println("my function");
+}
+  public static void main(String[]args){
+    Myprojectoneclipse mypr=new Myprojectoneclipse();
+    mypr.funA();
+}
+}
+   
+       
